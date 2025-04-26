@@ -76,5 +76,6 @@ nav:
     - 'Overview':
       - Purpose: blog_purpose.md
     - 'Blender':
-      - 'Architecture': blender_tips.md
+      - 'Architecture': Blender/blender_tips.md
+   
       
