@@ -1,6 +1,6 @@
 #To initinalize in windows env
 # python -m venv venv 
-# source venv/bin/activate 
+# source venv/bin/activate (Not needed after initial setup)
 # Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 # .\venv\Scripts\Activate.ps1
 
@@ -115,8 +115,10 @@ nav:
     - 'Blender':
       - 'Architecture': Blender/blender_tips.md
     - 'Foodz':
-      - 'Resturants': Adventures/Foodz/los_angeles.md
-
+      - 'Los Angeles': Adventures/Foodz/los_angeles.md
+      - 'Washington DC': Adventures/Foodz/washington_dc.md
+    - 'Adventures':
+      - 'Hiking': Adventures/Hiking/hiking_trails.md
 
    
       
