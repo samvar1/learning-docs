@@ -112,13 +112,15 @@ nav:
   - Learning Sections:
     - 'Overview':
       - Purpose: blog_purpose.md
-    - 'Blender':
-      - 'Architecture': Blender/blender_tips.md
     - 'Foodz':
       - 'Los Angeles': Adventures/Foodz/los_angeles.md
       - 'Washington DC': Adventures/Foodz/washington_dc.md
     - 'Adventures':
       - 'Hiking': Adventures/Hiking/hiking_trails.md
+    - 'Dev Notes':
+      - 'Dev Notes': Dev Notes/config_notes.md
+      - 'Blender': Dev Notes/blender_tips.md
+
 
    
       

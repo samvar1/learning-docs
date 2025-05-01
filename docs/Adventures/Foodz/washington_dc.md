@@ -1,16 +1,46 @@
 # Washington DC 
 
-## Resturants
+## Resturant Recommendations
 ***
+<!--- the <tr> provides an empty line space to keep the table from providing zebra formatting -->
 
-### American 
+=== "American"
+    | Name      | Location | Description
+    | :---        | :---:  | :---:  |
+    | Kings Fish House | Calabases  | Dinner  <tr></tr> |
+    | Firefly   |  Studio City  | Dinner    <tr></tr>|
+    | Granville   | Studio City    | Dinner or Brunch <tr></tr>|
+    | Water Grill   |  Santa Monica   | Dinner or Lunch  <tr></tr>|
+    | Laurel Hardware   | West Hollywood    | American <tr></tr>|
+    | Castaway   | Burbank    | American <tr></tr>|
+    | Gracias Madre   | West Hollywood    | American <tr></tr>|
+    | Elephante   |  Santa Monica   | Dinner or lunch   <tr></tr>|
+    | Herb and Wood   |  San Diego    | Dinner or lunch  <tr></tr>|
+    | Sandy's Beach Shack   |  Hunington Beach   | Dinner or lunch  <tr></tr>|
+    | Maple Block   |  Culver City   | Dinner (Brikset)  <tr></tr>|
+    | South Beverely Grill   |  Beverley Hills   | Dinner (Brikset)  <tr></tr>|  
 
-### Mexican 
+=== "Fine Dining"
+    | Name      | Location | Description
+    | :---        | :---:  | :---:  |
+    | Cafe Bizou   |  Agoura Hills  | Favorite for French food   <tr></tr>|
+    | Musso and Franks   | Hollywood    | Mafia style <tr></tr>|
+    | Laurel Hardware   | West Hollywood    | American <tr></tr>|
+    | Koi   |  West Hollywood   | Sushi  <tr></tr>|
 
-### Chinese 
+=== "Coffee or Ice Cream"
+    | Name      | Location | Description
+    | :---        | :---:  | :---:  |
+    | The Bigg Chill | Century City  | Ice Cream  <tr></tr> |
+    | Black Heart Coffee   |  Lake Balboa  | Coffee    <tr></tr>|
+    | Joan's on Third   | Studio City    | Coffee <tr></tr>|
+    | Urth Cafe  | Various   | Coffee <tr></tr>|
+    | Republique Cafe   |  West Hollywood   | Cathederal breakfast  <tr></tr>|
 
-### Indian
-
-
-## Breweries 
-***
+=== "Other"
+    | Name              | Location        | Description
+    | :-----------------| :---:           | :---:                 |
+    | Takoda Rooftop Bar | DC | Bar and Drinks  <tr></tr> |
+    | Cilantro Mexican Grill   |  Valley Glend  | Hole in the Wall Burrito spot    <tr></tr>|
+    | Taj Mahal   | Encino  | Indian <tr></tr>|
+    | False Idol   |  Speakeasy bar <tr></tr>| 
