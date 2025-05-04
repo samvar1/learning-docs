@@ -11,7 +11,7 @@ To avoid having zebra tables in markdown. Able to incorporate the following:
 This is used for image conversion from websites or other photos 
 
 For a single file: 
->magick file_name_input.webp file_name_output.jpg
+> magick file_name_input.webp file_name_output.jpg
 
 For bulk files and convert into a directory called **FOLDER**, use: 
 
@@ -39,5 +39,14 @@ Reference: [Whitespace preserved in markdown](https://stackoverflow.com/question
 ## Troublshooting
 
 Google Cloudsites and Cloudfare integration
+
 - Redirecting naked IP addresses for a google site account - [video reference](https://www.youtube.com/watch?v=MeZ0US6u24E)
+
 - To avoid the 525 error in Cloudflare for SSL handshake not being received. An additional rule is required to the naked DNS name to route to www* address
+
+## Windows Plugins 
+
+- customize windows actions and perform macros across custom key bindings - [autohotkey](https://www.autohotkey.com/)
+
+- To have the script always run at startup, open up run->shellstartup->copy/paste the script into this directory folder
+

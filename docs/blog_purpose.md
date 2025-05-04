@@ -1,1 +1,1 @@
-This is the purpose
+Documentation of life adventures! 
