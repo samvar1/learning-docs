@@ -26,6 +26,5 @@
 === "San Diego"
     | Name      | Location | Difficulty
     | :---        | :---:  | :---:  |
-    | Casa vega | Studio City  | Wet Burritos  <tr></tr> |
-    | Salsa and Beer   |  Van Nuys  | Wet Burriots    <tr></tr>|
-    | Sol y Luna   | Encino    | No-reservations <tr></tr>| 
+    | Torrey Pines Reserve | Torrey Pines  | Easy; 2hr loop trail  <tr></tr> |
+    | Sunset Cliffs   |  Ocean Beach  | No Hike; Great sunset views    <tr></tr>|

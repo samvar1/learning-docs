@@ -1,13 +1,16 @@
-# Configuration Notes
+# Plugin and Setup Learnings
 
 ## Markdown
+
 To avoid having zebra tables in markdown. Able to incorporate the following: 
 > It's not possible with CSS, but there is a workaround. Just add an empty row between your rows.
-```css
+
+``` css
 <tr><tr>
 ```
 
 ## Bulk Image Conversion using Magick v7
+
 This is used for image conversion from websites or other photos 
 
 For a single file: 
@@ -36,7 +39,7 @@ Reference: [Whitespace preserved in markdown](https://stackoverflow.com/question
 - Creating customer macros with VIA - [video reference](https://www.youtube.com/watch?v=aKQH09xxWEU)
 - [Documentation](https://docs.qmk.fm/keycodes) for the key bindings for QMK Keyboards
 
-## Troublshooting
+## Troublshooting DNS
 
 Google Cloudsites and Cloudfare integration
 

@@ -13,7 +13,7 @@
     | Water Grill   |  Santa Monica   | Dinner or Lunch  <tr></tr>|
     | Laurel Hardware   | West Hollywood    | American <tr></tr>|
     | Castaway   | Burbank    | American <tr></tr>|
-    | Gracias Madre   | West Hollywood    | American <tr></tr>|
+    | Gracias Madre   | West Hollywood    | American (healthy) <tr></tr>|
     | Elephante   |  Santa Monica   | Dinner or lunch   <tr></tr>|
     | Herb and Wood   |  San Diego    | Dinner or lunch  <tr></tr>|
     | Sandy's Beach Shack   |  Hunington Beach   | Dinner or lunch  <tr></tr>|
@@ -31,9 +31,11 @@
 === "Mexican"
     | Name      | Location | Description
     | :---        | :---:  | :---:  |
-    | Casa vega | Studio City  | Wet Burritos  <tr></tr> |
+    | Casa vega | Studio City  | Wet burritos  <tr></tr> |
     | Salsa and Beer   |  Van Nuys  | Wet Burriots    <tr></tr>|
-    | Sol y Luna   | Encino    | No-reservations <tr></tr>| 
+    | Sol y Luna   | Encino    | No-reservations <tr></tr>|
+    | Sonoritas Prime Tacos   | Westwood    | Great burritos and tacos <tr></tr>|  
+
 
 === "Coffee or Ice Cream"
     | Name      | Location | Description

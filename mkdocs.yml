@@ -7,6 +7,8 @@
 site_name: Varastic
 extra_css:
   - stylesheets/varastic-theme.css
+site_description: >-
+  Documenting life experiences as they happen
 theme: 
   name: material
   language: en
@@ -42,6 +44,9 @@ theme:
         name: Switch to light mode
       primary: custom
       accent: custom
+  font:
+    text: Open Sans
+    code: Open Sans
 
 plugins:
   - search
@@ -108,19 +113,21 @@ markdown_extensions:
   - pymdownx.tilde
 
 nav:
-  - Home: https://drive.google.com/drive/folders/0AKZm3AsCLVj3Uk9PVA
-  - Learning Sections:
+  - Home: index.md
+  - Learning:
     - 'Overview':
       - Purpose: blog_purpose.md
+    - 'Technology':
+      - 'Dev Notes': Technology/config_notes.md
+      - 'Blender': Technology/blender_tips.md
+    - 'Book Quotes':
+      - 'Book Quotes': Books/book_quotes.md
+  - 'Adventures':
     - 'Foodz':
       - 'Los Angeles': Adventures/Foodz/los_angeles.md
       - 'Washington DC': Adventures/Foodz/washington_dc.md
-    - 'Adventures':
+    - 'Nature':
       - 'Hiking': Adventures/Hiking/hiking_trails.md
-    - 'Dev Notes':
-      - 'Dev Notes': Dev Notes/config_notes.md
-      - 'Blender': Dev Notes/blender_tips.md
-
 
    
       
