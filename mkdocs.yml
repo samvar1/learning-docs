@@ -115,11 +115,10 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Learning:
-    - 'Overview':
-      - Purpose: blog_purpose.md
     - 'Technology':
       - 'Dev Notes': Technology/config_notes.md
       - 'Blender': Technology/blender_tips.md
+      - 'Git Notes': Technology/git_notes.md
     - 'Book Quotes':
       - 'Book Quotes': Books/book_quotes.md
   - 'Adventures':

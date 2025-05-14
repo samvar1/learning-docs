@@ -34,3 +34,10 @@ Some of the most profound and impactful quotes from books that help shape the mi
 ??? No Purchase Price to Happiness" 
 
     A calmn mind, a fit body, and a house full of love. These things can't be bough. They must be earned - NAVAL RAVIKANT
+
+??? Your Brains job isn't to make you happy" 
+
+    Your brain's primary job is not to make you happy, but to ensure
+    your survival. Thus, if you want to be happy, you must take control
+    of your emotions rather than hoping you'll be happy because it's
+    your natural state. 

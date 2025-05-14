@@ -52,5 +52,5 @@
     | The Edition Hotel | West Hollywood  | Bar and Drinks  <tr></tr> |
     | Cilantro Mexican Grill   |  Valley Glend  | Hole in the Wall Burrito spot    <tr></tr>|
     | Taj Mahal   | Encino  | Indian <tr></tr>|
-    | False Idol   |  Speakeasy bar <tr></tr>| 
+    | False Idol   |  San Diego | Speakeasy bar <tr></tr>| 
 
