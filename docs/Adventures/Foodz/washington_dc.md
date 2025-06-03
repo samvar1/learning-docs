@@ -47,5 +47,5 @@
     | Pho 75 | Rosslyn | Great Pho Spot  <tr></tr> |
     | Sauf Haus   |  Valley Glend  | Hole in the Wall Burrito spot    <tr></tr>|
     | 801 Resturant and Bar   | DC  | Rooftop bar and scenery <tr></tr>|
-    | Takoda Rooftop  |  DC | Rooftop bar and scenery  <tr></tr>| 
-    | Pan Am Bakery  |  Arlington | Best bolivian food <tr></tr>| 
+    | Takoda Rooftop  |  DC | Rooftop bar and scenery  <tr></tr>|
+    | Pan Am Bakery  |  Arlington | Best bolivian food <tr></tr>|
