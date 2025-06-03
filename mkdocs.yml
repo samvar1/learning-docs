@@ -6,6 +6,9 @@
 
 site_name: Varastic Adventures
 site_url: https://samvar1.github.io/learning-docs/
+site_author: Sam V
+site_description: >-
+  Documeting fun things
 
 extra_css:
   - stylesheets/varastic-theme.css
@@ -32,18 +35,10 @@ theme:
   - toc.follow 
   palette: 
   # Palette toggle for dark mode
-    - scheme: default
+    - scheme: slate
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-      primary: custom
-      accent: custom
-
-    # Palette toggle for light mode
-    - scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to light mode
       primary: custom
       accent: custom
   font:
