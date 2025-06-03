@@ -1,4 +1,4 @@
-# Hello!
+# Welcome
 
 ## Documentation of life adventures
 
