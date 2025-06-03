@@ -5,6 +5,8 @@
 # .\venv\Scripts\Activate.ps1
 
 site_name: Varastic
+site_url: https://samvar1.github.io/learning-docs/
+
 extra_css:
   - stylesheets/varastic-theme.css
 site_description: >-
