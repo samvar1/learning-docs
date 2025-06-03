@@ -133,6 +133,7 @@ nav:
       - 'Washington DC': Adventures/Foodz/washington_dc.md
     - 'Nature':
       - 'Hiking': Adventures/Hiking/hiking_trails.md
+extra:
+  generator: false
 
-   
       
