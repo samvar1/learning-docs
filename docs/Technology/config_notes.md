@@ -53,3 +53,9 @@ Google Cloudsites and Cloudfare integration
 
 - To have the script always run at startup, open up run->shellstartup->copy/paste the script into this directory folder
 
+## Git SSH on Windows (if using SSH Keys)
+
+- Admin Terminal ssh-agent or (services > OpenSSH Auth Agent)
+- Non-Admin Terminal: ssh-add path/to/pv-key
+- git config --global core.sshcommand "C:/Windows/System32/OpenSSH/ssh.exe"
+
