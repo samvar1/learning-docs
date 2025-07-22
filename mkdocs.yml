@@ -4,7 +4,7 @@
 # Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
 # .\venv\Scripts\Activate.ps1
 
-site_name: Varastic Adventures
+site_name: Casa Encino Adventures
 site_url: https://samvar1.github.io/learning-docs/
 site_author: Sam V
 site_description: >-
