@@ -4,11 +4,12 @@
 ***
 <!--- the <tr> provides an empty line space to keep the table from providing zebra formatting -->
 
-=== "American"
+=== "Dinner"
     | Name      | Location | Description
     | :---        | :---:  | :---:  |
     | Kings Fish House | Calabases  | Dinner  <tr></tr> |
     | Firefly   |  Studio City  | Dinner    <tr></tr>|
+    | Cafe Bizou   |  Agoura Hills  | Favorite for French food   <tr></tr>|
     | Granville   | Studio City    | Dinner or Brunch <tr></tr>|
     | Water Grill   |  Santa Monica   | Dinner or Lunch  <tr></tr>|
     | Laurel Hardware   | West Hollywood    | American <tr></tr>|
@@ -17,16 +18,9 @@
     | Elephante   |  Santa Monica   | Dinner or lunch   <tr></tr>|
     | Herb and Wood   |  San Diego    | Dinner or lunch  <tr></tr>|
     | Sandy's Beach Shack   |  Hunington Beach   | Dinner or lunch  <tr></tr>|
-    | Maple Block   |  Culver City   | Dinner (Brikset)  <tr></tr>|
-    | South Beverely Grill   |  Beverley Hills   | Dinner (Brikset)  <tr></tr>|  
-
-=== "Fine Dining"
-    | Name      | Location | Description
-    | :---        | :---:  | :---:  |
-    | Cafe Bizou   |  Agoura Hills  | Favorite for French food   <tr></tr>|
-    | Musso and Franks   | Hollywood    | Mafia style <tr></tr>|
-    | Laurel Hardware   | West Hollywood    | American <tr></tr>|
-    | Koi   |  West Hollywood   | Sushi  <tr></tr>|
+    | Maple Block   |  Culver City   | Dinner Meats and Brisket  <tr></tr>|
+    | South Beverely Grill   |  Beverley Hills   | Dinner (Brikset)  <tr></tr>|
+    | Musso and Franks   | Hollywood    | Mafia style <tr></tr>|  
 
 === "Mexican"
     | Name      | Location | Description
@@ -34,10 +28,16 @@
     | Casa vega | Studio City  | Wet burritos  <tr></tr> |
     | Salsa and Beer   |  Van Nuys  | Wet Burriots    <tr></tr>|
     | Sol y Luna   | Encino    | No-reservations <tr></tr>|
-    | Sonoritas Prime Tacos   | Westwood    | Great burritos and tacos <tr></tr>|  
+    | Sonoritas Prime Tacos   | Westwood   | Great burritos and tacos <tr></tr>|  
 
+=== "Asian"
+    | Name      | Location | Description
+    | :---        | :---:  | :---:  |
+    | Teru Sushi | Studio City  | Calm and ambient sushi place  <tr></tr> |
+    | Nobu    |  Malibu  | Best sushi   <tr></tr>|
+    | Koi   | West Hollywood    | Small portions but tasty <tr></tr>|
 
-=== "Coffee or Ice Cream"
+=== "Breakfast or Ice Cream"
     | Name      | Location | Description
     | :---        | :---:  | :---:  |
     | The Bigg Chill | Century City  | Ice Cream  <tr></tr> |
@@ -45,6 +45,8 @@
     | Joan's on Third   | Studio City    | Coffee <tr></tr>|
     | Urth Cafe  | Various   | Coffee <tr></tr>|
     | Republique Cafe   |  West Hollywood   | Cathederal breakfast  <tr></tr>|
+    | More Than Waffles   |  Encino   | Mom and Pop feel  <tr></tr>|
+    | Claudine Bakershop   |  Encino   | Traditional American Breakfast  <tr></tr>|
 
 === "Other"
     | Name      | Location | Description

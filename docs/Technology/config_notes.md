@@ -20,8 +20,12 @@ For bulk files and convert into a directory called **FOLDER**, use:
 
 <pre>
 > mkdir output
-> magick mogrify -format JPEG -path OUTPUT *.webp 
+> magick mogrify -format JPEG -path OUTPUT *.webp OR 
+> magick.exe mogrify -format jpg *.HEIC 
+
 </pre>
+
+
 
 ## Applying whitespace into markdown files 
 
@@ -49,7 +53,7 @@ Google Cloudsites and Cloudfare integration
 
 ## Windows Plugins 
 
-- customize windows actions and perform macros across custom key bindings - [autohotkey](https://www.autohotkey.com/)
+- Customize windows actions and perform macros across custom key bindings - [autohotkey](https://www.autohotkey.com/)
 
 - To have the script always run at startup, open up run->shellstartup->copy/paste the script into this directory folder
 

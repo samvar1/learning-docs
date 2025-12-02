@@ -1,6 +1,8 @@
 # Book Quotes 
 
-Some of the most profound and impactful quotes from books that help shape the mind. 
+Some of the most profound and impactful quotes from books that help shape the mind.
+
+Rule 1: If you can't get what you want you have to teach yourself how you can get it. 
 
 ??? quote "12 Laws of Power Robert Greene" 
 
